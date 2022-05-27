@@ -1,20 +1,62 @@
-<h1 align="center">Hi 👋, We're gezelio</h1>
-<h3 align="center">Building & creating streaming tools</h3>
+# **<div align="center">Hi 👋, We're gezelio</div>**  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gezelio&label=Profile%20views&color=0e75b6&style=flat" alt="gezelio" /> </p>
+### <div align="center">Building & creating streaming tools</div>  
+  
 
-<p align="left"> <a href="https://twitter.com/gezel_io" target="blank"><img src="https://img.shields.io/twitter/follow/gezel_io?logo=twitter&style=for-the-badge" alt="gezel_io" /></a> </p>
+![Profile views counter](https://komarev.com/ghpvc/?username=gezelio&&style=flat-square)  
+  
 
-- 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)
+<p align="left"> <a href="https://twitter.com/gezel_io" target="blank"><img src="https://img.shields.io/twitter/follow/gezel_io?logo=twitter&style=for-the-badge" alt="gezel_io" /></a> </p>  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gezel_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gezel_io" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCg94uTaUbUC379rj-RBGGQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucg94utaubuc379rj-rbggqq" height="30" width="40" /></a>
-</p>
+- 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<br/>  
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/gezel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gezel" /></a></p><br><br>
+
+
+## Connect with Us  
+<div align="center">
+<a href="https://github.com/gezelio" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/gezel_io" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/UCg94uTaUbUC379rj-RBGGQQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+
+
+## Our Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+</td><td valign="top" width="50%">
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+## Support Us  
+<div align="center"><a href="https://ko-fi.com/gezel"> <img src="https://cdn.iconscout.com/icon/free/png-256/ko-fi-2752141-2284958.png" height="100" alt="ko-fi gezel" /></a></div>  

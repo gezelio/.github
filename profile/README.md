@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gezel_io" target="blank"><img src="https://img.shields.io/twitter/follow/gezel_io?logo=twitter&style=for-the-badge" alt="gezel_io" /></a> </p>
 
-- 🔭 We're currently working on [YouTube Channel Points](ytcr.gezel.io)
+- 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

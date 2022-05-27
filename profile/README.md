@@ -14,7 +14,6 @@
   
 
 <br/>  
-<br/>  
 
 
 ## Connect with Us  
@@ -36,8 +35,3 @@
 
 ## Support Us  
 <div align="center"><a href="https://ko-fi.com/gezel"> <img src="https://cdn.iconscout.com/icon/free/png-256/ko-fi-2752141-2284958.png" height="100" alt="ko-fi gezel" /></a></div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

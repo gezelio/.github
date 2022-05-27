@@ -14,7 +14,7 @@
   
 
 <br/>  
-
+<br/>  
 
 
 ## Connect with Us  
@@ -33,30 +33,11 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-
-
-## Our Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 
 ## Support Us  
 <div align="center"><a href="https://ko-fi.com/gezel"> <img src="https://cdn.iconscout.com/icon/free/png-256/ko-fi-2752141-2284958.png" height="100" alt="ko-fi gezel" /></a></div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

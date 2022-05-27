@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm gezelio</h1>
+<h1 align="center">Hi 👋, We're gezelio</h1>
 <h3 align="center">Building & creating streaming tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezelio&label=Profile%20views&color=0e75b6&style=flat" alt="gezelio" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gezel_io" target="blank"><img src="https://img.shields.io/twitter/follow/gezel_io?logo=twitter&style=for-the-badge" alt="gezel_io" /></a> </p>
+
+- 🔭 We're currently working on [YouTube Channel Points](ytcr.gezel.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

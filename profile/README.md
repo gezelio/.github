@@ -11,6 +11,7 @@
   
 
 - 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)  
+- 🔭 We're currently working on [Social Profiles](https://me.gezel.io)  
   
 
 <br/>  

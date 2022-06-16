@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋, We're gezelio</div>**  
+# **<div align="center">Hi 👋, We're Gezel io</div>**  
   
 
 ### <div align="center">Building & creating streaming tools</div>  
@@ -11,7 +11,7 @@
   
 
 - 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)  
-- 🔭 We're currently working on [Social Profiles](https://me.gezel.io)  
+- 🔭 We're currently working on [Social Profiles](https://gezel.me)  
   
 
 <br/>  

@@ -1,4 +1,4 @@
-# **<div align="center">Hi 👋, We're Gezel io</div>**  
+# **<div align="center">Hi 👋, We're Gezel.io</div>**  
   
 
 ### <div align="center">Building & creating streaming tools</div>  

@@ -11,6 +11,7 @@
   
 
 - 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)  
+  - 📂 Download the latest version [here](https://github.com/gezelio/YTCR-Streamerbot)
 - 🔭 We're currently working on [Social Profiles](https://gezel.me)  
   
 

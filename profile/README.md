@@ -9,15 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/gezel_io" target="blank"><img src="https://img.shields.io/twitter/follow/gezel_io?logo=twitter&style=for-the-badge" alt="gezel_io" /></a> </p>  
   
-
-- 🔭 We're currently working on [YouTube Channel Points](https://ytcr.gezel.io)  
-  - 📂 Download the latest version [here](https://github.com/gezelio/YTCR-Streamerbot)
-- 🔭 We're currently working on [Social Profiles](https://gezel.me)  
-  
-
-<br/>  
-
-
+## Our Projects
+- :rage1: [Mystlink](https://mystl.ink/?ref=github) - Free alternative to Linktree and other single page generators
+- :rage2: [Gezel Bot](https://bot.gezel.io/?ref=github) - Discord bot for content creators and general moderation/administration
+- :rage3: [YouTube Channel Rewards](https://ytcr.gezel.io/?ref=github) - Bring your Twitch channel points to YouTube streams
+ 
 ## Connect with Us  
 <div align="center">
 <a href="https://github.com/gezelio" target="_blank">
